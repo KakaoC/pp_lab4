@@ -6,4 +6,6 @@
 * **time**
 * **progress**
 * **requests**
+* **PyQt5**
+* **Pandas** 
  
