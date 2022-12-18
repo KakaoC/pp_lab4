@@ -7,5 +7,6 @@
 * **progress**
 * **requests**
 * **PyQt5**
-* **Pandas** 
- 
+* **Pandas**
+* **OpenCV-Python**
+* **Numpy**
